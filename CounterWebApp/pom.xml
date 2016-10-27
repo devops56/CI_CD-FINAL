@@ -112,7 +112,7 @@
       				</configuration>
       		</plugin>
 
-<!-- For Tomcat -->
+<!-- For Tomcat 
 			<plugin>
 				<groupId>org.apache.tomcat.maven</groupId>
 				<artifactId>tomcat7-maven-plugin</artifactId>
@@ -126,7 +126,7 @@
 					<path>/CounterWebApp</path>
 					
 				</configuration>
-			</plugin>
+			</plugin> -->
 			
 			
 		</plugins>
